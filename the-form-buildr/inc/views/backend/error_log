@@ -1,0 +1,4 @@
+[05-Jan-2019 19:19:31 UTC] PHP Fatal error:  Uncaught Error: Cannot access self:: when no class scope is active in /home/bcadsyst/public_html/plugdev/wp-content/plugins/the-form-buildr/inc/views/backend/new-form.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bcadsyst/public_html/plugdev/wp-content/plugins/the-form-buildr/inc/views/backend/new-form.php on line 2
