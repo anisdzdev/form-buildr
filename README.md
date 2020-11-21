@@ -1,6 +1,6 @@
 # Form Builder - Wordpress Plugin
 
-I built this plugin because none of the ones available on wordpress suited my very simple need, create a **popup** multi-part form.
+I built this plugin because none of the ones I found on wordpress suited my very simple need, create a **popup** multi-part form.
 
 ![made-with-php](https://img.shields.io/badge/PHP-v5.5-teal.svg)
 ![made-with-wordpress](https://img.shields.io/badge/Wordpress-v5.5.3-orange.svg)
